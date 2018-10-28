@@ -45,13 +45,13 @@ Note:
 - **CSS** **file** **SHOULD NOT be renamed**
 
 
-[Download MDX]()
+[Download MDX](https://github.com/dolanskurd/E2KThesaurus/blob/master/E2KThesaurus/E2K-Thesaurus.mdx)
 
 Download MDD (N/A)
 
-[Download CSS]()
+[Download CSS](https://github.com/dolanskurd/E2KThesaurus/blob/master/E2KThesaurus/E2K-Thesaurus.css)
 
-[Download Dictionary Icon]()
+[Download Dictionary Icon](https://github.com/dolanskurd/E2KThesaurus/blob/master/E2KThesaurus/E2K-Thesaurus.png)
 
 
 
