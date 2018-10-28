@@ -1,0 +1,60 @@
+body{
+	background: #fdfdff;
+	line-height: 25px;
+}
+.entry{
+	font-family: Candara, Arial, Verdana;
+	color: #0b5bc4;
+	font-size: 20px;
+	font-weight: bold;
+	display: inline;
+}
+
+span.Phonetic{
+	font-family: Verdana, Arial;
+	color: #777777;
+	font-size: 14px;
+	display: inline;
+}
+.Phonetic:before{
+	content: "\00a0/\00a0";
+	color: #292929;
+	font-size: 14px;
+}
+.Phonetic:after{
+	content: "\00a0/\00a0";
+	color: #292929;
+	font-size: 14px;
+}
+span.def{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 16px;
+	color: #DC143C;
+	font-weight: bold;
+}
+span.pos{
+	color: #00b359;
+	font-size:15px;
+	font-family: "Segoe UI", Arial, Verdana, Tahoma;
+	font-weight: bold;
+	font-style: italic;
+	display: inline;
+}
+span.MV{
+	font-family: Verdana, Arial, Tahoma;
+	color: #130ffd;
+	font-size: 15px;
+	font-weight: bold;
+}
+span.th{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 14px;
+	color: #292929;
+	font-weight: bold;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
